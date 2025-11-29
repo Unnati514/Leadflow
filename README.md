@@ -41,6 +41,4 @@ It includes 4 main modules and an integrated AI Assistant (UI only).
 
 
 
----
 
-## 📁 Project Structure
